@@ -3,7 +3,7 @@
 Welcome to my JSON-based CV! This file is designed to showcase my technical expertise in a format that's both unique and highly flexible.
 
 ## What Is This?
-This JSON file (`stephen_ayre_cv.json`) contains all the structured information about my professional experience, skills, projects, and more. It's designed to:
+This JSON file contains all the structured information about my professional experience, skills, projects, and more. It's designed to:
 - Demonstrate my technical abilities in working with structured data formats.
 - Be easily parsed, visualized, or extended by technical audiences.
 
