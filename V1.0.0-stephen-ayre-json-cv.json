@@ -1,0 +1,145 @@
+{
+    "personal_details": {
+      "name": "Stephen Ayre",
+      "role": "Technical Product Manager",
+      "contact": {
+        "phone": "07753232894",
+        "email": "stephen.rl.ayre@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/steve-ayre-b60348180/"
+      }
+    },
+    "professional_summary": {
+      "experience": "Driving product-led transformation with 4 years of experience in technical product development, underpinned by a strong foundation in data analytics and insights.",
+      "specialization": "Specialized in backend systems, API integrations, and cross-functional leadership.",
+      "approach": "My approach is grounded in strategic and commercial thinking, ensuring decisions about how systems are built and evolve are aligned with user needs and business objectives.",
+      "key_strengths": "Known for fostering collaboration, leveraging data-driven insights, and delivering impactful, meaningful outcomes.",
+      "values": "Authenticity, transparency, and accountability guide my approach to collaboration and creating impactful solutions.",
+      "personal_project": "Currently building a mobile app in Flutter (Dart), focused on supporting users' personal growth."
+    },
+    "core_skills": {
+      "leadership": [
+        {
+          "skill": "Strategic roadmapping",
+          "description": "Experience creating product roadmaps aligned with business goals, ensuring clear priorities and deliverable timelines for cross-functional teams."
+        },
+        {
+          "skill": "Stakeholder engagement",
+          "description": "Skilled in fostering collaboration with internal and external stakeholders to gather insights, secure buy-in, and align on strategic objectives."
+        },
+        {
+          "skill": "Cross-functional team leadership",
+          "description": "Proven ability to lead diverse teams of engineers, QAs, and designers, driving value through effective communication, accountability, and shared goals."
+        }
+      ],
+      "technical": [
+        {
+          "skill": "API integrations",
+          "description": "Collaborated with engineering teams to define and prioritize API requirements, ensuring seamless integration between systems."
+        },
+        {
+          "skill": "Backend system design",
+          "description": "Partnered with backend developers to design scalable systems, ensuring alignment with business needs and technical feasibility."
+        },
+        {
+          "skill": "Data Product Development",
+          "description": "Developed a suite of data products, including dashboards, reporting tools, and their supporting cloud architectures to provide stakeholders with actionable insights."
+        },
+        {
+          "skill": "SQL",
+          "description": "Ability to query and analyze data using SQL to generate insights that inform product decisions."
+        }
+      ],
+      "tools": {
+        "product_management_and_collaboration": [
+          "JIRA",
+          "Trello",
+          "Confluence",
+          "MIRO",
+          "Slack"
+        ],
+        "development_and_integrations": [
+          "Postman",
+          "Swagger",
+          "GitHub",
+          "Android Studio",
+          "Firebase"
+        ],
+        "data_tools": [
+          "Tableau",
+          "QlikSense",
+          "BigQuery / GCP",
+          "SQL"
+        ]
+      }
+    },
+    "professional_experience": [
+      {
+        "role": "Technical Product Manager",
+        "company": "Molo Finance",
+        "dates": "Sep 2023 – Present",
+        "achievements": [
+          "Transitioned Molo to a product-led framework, implementing a prioritisation framework, KPIs and customer feedback channels.",
+          "Transformed the squad from a siloed and inconsistent team into one driven by accountability and collaboration, fostering a high-performing and supportive environment.",
+          "Introduced a more focused and structured way of working, ensuring teams prioritized the right initiatives and minimized distractions.",
+          "Developed a framework for reviewing and maintaining integrations, reducing risk and enabling cost savings by sunsetting low-value systems.",
+          "Took ownership of understanding integration data to identify smarter ways to leverage it for driving business value.",
+          "Redesigned the architecture of the credit decisioning model’s data storage, enabling Molo to analyze results more efficiently and streamline operations, enhancing overall efficiency."
+        ]
+      },
+      {
+        "role": "Technical Product Owner",
+        "company": "BT Group (BT/EE/Plusnet)",
+        "dates": "Mar 2021 – Sep 2023",
+        "achievements": [
+        "Secured buy-in to transform a complex Excel-based insights report into a scalable suite of data products to support strategic decision-making.",
+        "Built and led two squads (15 members) comprising data engineers, QAs, BAs, and data visualization specialists to deliver the initiative.",
+        "Defined the data architecture, secured approval for required third-party integrations, and optimized the pipeline to maximize business value.",
+        "Deployed a suite of data products that democratized data access through advanced visualization tools and supported core AI models leveraged across the Marketing group.",
+        "Delivered never-before-seen service revenue metrics, driving AI-driven commercial decision-making."
+  ]
+  
+      },
+      {
+        "role": "Data Analytics Specialist",
+        "company": "BT Group (BT/EE/Plusnet)",
+        "dates": "Oct 2019 – Mar 2021",
+        "achievements": [
+    "Gathered business requirements to identify key focus areas for improvement, leveraging SQL for data analysis to uncover actionable insights.",
+    "Identified drivers for cancellations in BT broadband and developed a dashboard to track the impact of solutions, enabling targeted interventions and measurable improvements.",
+    "Transformed the team’s ethos from reporting to delivering actionable insights by introducing training on requirements gathering, commercial analytics, and data storytelling."
+  ]
+      },
+  {
+    "role": "Consumer Insights Analyst",
+    "company": "BT Group (BT/EE/Plusnet)",
+    "dates": "May 2018 – Oct 2019",
+    "achievements": [
+      "Specialized in understanding consumer wants, needs, and trends in the broadband and mobile markets.",
+      "Supported product teams by conducting comprehensive user research and providing valuable insights throughout the entire product development lifecycle, from ideation to delivery.",
+      "Shaped product strategies to ensure alignment with consumer demands and market trends, enhancing market relevance and success.",
+      "Delivered actionable insights that informed go-to-market strategies, contributing to the successful launch of new products."
+    ]
+  }
+    ],
+    "projects": [
+      {
+        "title": "Independent App Developer",
+        "description": "Designing a mobile app using Flutter to help users set meaningful, values-based goals. The app leverages the OCEAN Personality Framework and behavioral principles to guide users toward self-discovery. Responsible for E2E research, design, development, testing and deployment"
+      }
+    ],
+    "education_and_certifications": {
+      "degree": {
+        "title": "2:1 BSc Economics",
+        "institution": "University of Plymouth",
+        "year": "2012"
+      }
+    },
+    "personal_interests": [
+      "DIY projects",
+      "Outdoor adventures with my partner and dog",
+      "App development",
+      "Music production",
+      "Pizza making"
+    ]
+  }
+  
