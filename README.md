@@ -14,19 +14,5 @@ If you're familiar with JSON, you can open the `stephen_ayre_cv.json` file in:
 - An online JSON viewer such as [JSONViewer](https://jsonviewer.stack.hu/) or [JSON Formatter](https://jsonformatter.curiousconcept.com/).
 
 ### Option 2: Render It Programmatically
-You can use the file in your own program to render the CV in various formats (e.g., HTML, PDF). Here's an example in Python:
-
-#### Python Script Example:
-```python
-import json
-
-# Load JSON CV
-with open("stephen_ayre_cv.json", "r") as file:
-    cv_data = json.load(file)
-
-# Print Summary
-print(f"{cv_data['personal_details']['name']} - {cv_data['personal_details']['role']}")
-print(f"Contact: {cv_data['personal_details']['contact']['email']} | {cv_data['personal_details']['contact']['phone']}")
-print("\nProfessional Summary:")
-print(cv_data['professional_summary'])
+You can use the file in your own program to render the CV in various formats (e.g., HTML, PDF).
 
